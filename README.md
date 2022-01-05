@@ -1,6 +1,6 @@
 # Revisão de OO e SQL
 
-## Nesta aula vamos revisar
+## Neste projeto foi revisado
 - Chave primária, chave estrangeira
 - DDL (create table, alter table)
 - SQL
@@ -13,20 +13,6 @@
 - Composição de objetos
 - Coleções (list, map)
 - Acessar dados em BD relacional e instanciar objetos correspondentes
-
-## Pré-requisitos
-- Git
-- JDK
-- STS (ou outra IDE)
-- Servidor Postgres
-- pgAdmin
-
-[Guia de instalação para Windows](https://github.com/devsuperior/sds1/tree/master/ferramentas/windows)
-
-[Guia de instalação para Linux](https://github.com/devsuperior/sds1/tree/master/ferramentas/linux)
-
-[Guia de instalação para Mac](https://github.com/devsuperior/sds1/tree/master/ferramentas/mac)
-
 
 ## Criação e instanciação da base de dados
 ```sql
